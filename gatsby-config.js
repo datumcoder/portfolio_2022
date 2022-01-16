@@ -5,6 +5,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-offline`,
+    `pathPrefix: "/portfolio_2022"`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
