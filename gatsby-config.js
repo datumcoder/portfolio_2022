@@ -5,7 +5,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-offline`,
-    `pathPrefix: "https://datumcoder.github.io/portfolio_2022"`,
+    // `pathPrefix: "https://datumcoder.github.io/portfolio_2022"`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
