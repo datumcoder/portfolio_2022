@@ -39,7 +39,7 @@ const Footer = () => {
         <hr />
         <p className="footer__text">
           © {new Date().getFullYear()} - BY{' '}
-          <a href="mailto:datumcoder@gmail.com" target="_blank" rel="noopener noreferrer">
+          <a href="mailto:hi@patrickosullivan.dev" target="_blank" rel="noopener noreferrer">
             PATRICK O'SULLIVAN
           </a>
         </p>
